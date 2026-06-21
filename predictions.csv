@@ -1,0 +1,6 @@
+area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus,predicted_price
+7420,4,2,3,yes,no,no,no,yes,2,yes,furnished,8499897.0
+8960,4,4,4,yes,no,no,no,yes,3,no,furnished,11259809.4
+5750,3,2,4,yes,yes,no,no,yes,1,yes,unfurnished,7011795.0
+6000,4,3,2,yes,yes,yes,yes,no,2,no,semi-furnished,8684340.0
+4600,3,2,2,yes,yes,no,no,yes,2,no,furnished,6848310.0
